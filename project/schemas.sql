@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS parcels (
+
+);
+
+CREATE TABLE IF NOT EXISTS permits (
+
+);
